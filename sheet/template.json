@@ -1,0 +1,521 @@
+{
+  "pageDimensions": [
+    1653,
+    2338
+  ],
+  "bubbleDimensions": [
+    26,
+    26
+  ],
+  "customLabels": {
+    "Roll": [
+      "roll1..10"
+    ],
+    "ExamDate": [
+      "date_d1",
+      "date_d2",
+      "date_m1",
+      "date_m2",
+      "date_y1",
+      "date_y2"
+    ]
+  },
+  "fieldBlocks": {
+    "MCQ_q1": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q1..5"
+      ],
+      "origin": [
+        287,
+        817
+      ],
+      "bubblesGap": 42.6,
+      "labelsGap": 40.6
+    },
+    "MCQ_q6": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q6..10"
+      ],
+      "origin": [
+        290,
+        1059
+      ],
+      "bubblesGap": 42.6,
+      "labelsGap": 40.6
+    },
+    "MCQ_q11": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q11..15"
+      ],
+      "origin": [
+        291,
+        1302
+      ],
+      "bubblesGap": 43.2,
+      "labelsGap": 40.2
+    },
+    "MCQ_q16": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q16..20"
+      ],
+      "origin": [
+        295,
+        1544
+      ],
+      "bubblesGap": 43.2,
+      "labelsGap": 40.4
+    },
+    "MCQ_q21": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q21..25"
+      ],
+      "origin": [
+        299,
+        1787
+      ],
+      "bubblesGap": 42.8,
+      "labelsGap": 40.2
+    },
+    "MCQ_q26": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q26..30"
+      ],
+      "origin": [
+        630,
+        815
+      ],
+      "bubblesGap": 42.6,
+      "labelsGap": 40.4
+    },
+    "MCQ_q31": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q31..35"
+      ],
+      "origin": [
+        631,
+        1057
+      ],
+      "bubblesGap": 43.2,
+      "labelsGap": 40.4
+    },
+    "MCQ_q36": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q36..40"
+      ],
+      "origin": [
+        635,
+        1299
+      ],
+      "bubblesGap": 42.8,
+      "labelsGap": 40.4
+    },
+    "MCQ_q41": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q41..45"
+      ],
+      "origin": [
+        639,
+        1541
+      ],
+      "bubblesGap": 42.6,
+      "labelsGap": 40.6
+    },
+    "MCQ_q46": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q46..50"
+      ],
+      "origin": [
+        642,
+        1783
+      ],
+      "bubblesGap": 42.6,
+      "labelsGap": 40.8
+    },
+    "MCQ_q51": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q51..55"
+      ],
+      "origin": [
+        973,
+        811
+      ],
+      "bubblesGap": 42.6,
+      "labelsGap": 40.5
+    },
+    "MCQ_q56": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q56..60"
+      ],
+      "origin": [
+        975,
+        1054
+      ],
+      "bubblesGap": 42.6,
+      "labelsGap": 40.2
+    },
+    "MCQ_q61": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q61..65"
+      ],
+      "origin": [
+        977,
+        1296
+      ],
+      "bubblesGap": 43.2,
+      "labelsGap": 40.4
+    },
+    "MCQ_q66": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q66..70"
+      ],
+      "origin": [
+        981,
+        1539
+      ],
+      "bubblesGap": 42.8,
+      "labelsGap": 40.0
+    },
+    "MCQ_q71": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q71..75"
+      ],
+      "origin": [
+        985,
+        1781
+      ],
+      "bubblesGap": 42.8,
+      "labelsGap": 40.4
+    },
+    "MCQ_q76": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q76..80"
+      ],
+      "origin": [
+        1315,
+        809
+      ],
+      "bubblesGap": 42.8,
+      "labelsGap": 40.1
+    },
+    "MCQ_q81": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q81..85"
+      ],
+      "origin": [
+        1317,
+        1051
+      ],
+      "bubblesGap": 43.4,
+      "labelsGap": 40.3
+    },
+    "MCQ_q86": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q86..90"
+      ],
+      "origin": [
+        1321,
+        1293
+      ],
+      "bubblesGap": 42.8,
+      "labelsGap": 40.4
+    },
+    "MCQ_q91": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q91..95"
+      ],
+      "origin": [
+        1325,
+        1535
+      ],
+      "bubblesGap": 42.6,
+      "labelsGap": 40.5
+    },
+    "MCQ_q96": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q96..100"
+      ],
+      "origin": [
+        1327,
+        1777
+      ],
+      "bubblesGap": 42.8,
+      "labelsGap": 40.6
+    },
+    "Roll": {
+      "fieldType": "QTYPE_INT",
+      "fieldLabels": [
+        "roll1..10"
+      ],
+      "origin": [
+        196,
+        333
+      ],
+      "bubblesGap": 40.4,
+      "labelsGap": 42.8
+    },
+    "date_d1": {
+      "bubbleValues": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "direction": "vertical",
+      "fieldLabels": [
+        "date_d1"
+      ],
+      "origin": [
+        665,
+        333
+      ],
+      "bubblesGap": 40.4,
+      "labelsGap": 0
+    },
+    "date_d2": {
+      "bubbleValues": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "direction": "vertical",
+      "fieldLabels": [
+        "date_d2"
+      ],
+      "origin": [
+        709,
+        333
+      ],
+      "bubblesGap": 40.4,
+      "labelsGap": 0
+    },
+    "date_m1": {
+      "bubbleValues": [
+        "0",
+        "1"
+      ],
+      "direction": "vertical",
+      "fieldLabels": [
+        "date_m1"
+      ],
+      "origin": [
+        750,
+        333
+      ],
+      "bubblesGap": 40.4,
+      "labelsGap": 0
+    },
+    "date_m2": {
+      "bubbleValues": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "direction": "vertical",
+      "fieldLabels": [
+        "date_m2"
+      ],
+      "origin": [
+        795,
+        333
+      ],
+      "bubblesGap": 40.4,
+      "labelsGap": 0
+    },
+    "date_y1": {
+      "bubbleValues": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "direction": "vertical",
+      "fieldLabels": [
+        "date_y1"
+      ],
+      "origin": [
+        839,
+        333
+      ],
+      "bubblesGap": 40.4,
+      "labelsGap": 0
+    },
+    "date_y2": {
+      "bubbleValues": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "direction": "vertical",
+      "fieldLabels": [
+        "date_y2"
+      ],
+      "origin": [
+        881,
+        333
+      ],
+      "bubblesGap": 40.4,
+      "labelsGap": 0
+    }
+  },
+  "preProcessors": [
+    {
+      "name": "FeatureBasedAlignment",
+      "options": {
+        "reference": "reference.jpg",
+        "maxFeatures": 3000,
+        "goodMatchPercent": 0.2
+      }
+    }
+  ],
+  "outputColumns": [
+    "Roll",
+    "ExamDate",
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q5",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q10",
+    "q11",
+    "q12",
+    "q13",
+    "q14",
+    "q15",
+    "q16",
+    "q17",
+    "q18",
+    "q19",
+    "q20",
+    "q21",
+    "q22",
+    "q23",
+    "q24",
+    "q25",
+    "q26",
+    "q27",
+    "q28",
+    "q29",
+    "q30",
+    "q31",
+    "q32",
+    "q33",
+    "q34",
+    "q35",
+    "q36",
+    "q37",
+    "q38",
+    "q39",
+    "q40",
+    "q41",
+    "q42",
+    "q43",
+    "q44",
+    "q45",
+    "q46",
+    "q47",
+    "q48",
+    "q49",
+    "q50",
+    "q51",
+    "q52",
+    "q53",
+    "q54",
+    "q55",
+    "q56",
+    "q57",
+    "q58",
+    "q59",
+    "q60",
+    "q61",
+    "q62",
+    "q63",
+    "q64",
+    "q65",
+    "q66",
+    "q67",
+    "q68",
+    "q69",
+    "q70",
+    "q71",
+    "q72",
+    "q73",
+    "q74",
+    "q75",
+    "q76",
+    "q77",
+    "q78",
+    "q79",
+    "q80",
+    "q81",
+    "q82",
+    "q83",
+    "q84",
+    "q85",
+    "q86",
+    "q87",
+    "q88",
+    "q89",
+    "q90",
+    "q91",
+    "q92",
+    "q93",
+    "q94",
+    "q95",
+    "q96",
+    "q97",
+    "q98",
+    "q99",
+    "q100"
+  ]
+}
